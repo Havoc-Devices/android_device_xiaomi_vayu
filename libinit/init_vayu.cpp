@@ -140,7 +140,7 @@ void vendor_load_properties() {
         set_device_props(
             fp,
             fp_desc,
-            "POCO", "vayu", "M2102J20SG", "vayu_global", "POCO X3 Pro");
+            "POCO", "vayu", "M2102J20SI", "vayu_global", "POCO X3 Pro");
         property_override("ro.product.mod_device", "vayu_global");
     }
 

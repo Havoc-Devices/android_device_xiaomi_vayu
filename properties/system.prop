@@ -35,6 +35,12 @@ ro.vendor.qti.va_aosp.support=1
 # GBoard
 ro.com.google.ime.kb_pad_port_b=1
 
+# Havoc Stuff
+ro.havoc.device.name=Xiaomi Poco X3 Pro
+ro.havoc.group.url=https://t.me/+xesyU34aI7k2NWM1
+ro.havoc.maintainer=Alisson Grizotti
+ro.havoc.maintainer.username=bagualisson
+
 # IMS
 persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
